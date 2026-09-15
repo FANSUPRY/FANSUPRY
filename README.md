@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hej, jestem Szymon
 
-<!--
-**FANSUPRY/FANSUPRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Jestem początkującym programistą, który tworzy własne narzędzia i projekty.
 
-Here are some ideas to get you started:
+🔥 Uczę się Python i rozwijam swoje umiejętności krok po kroku. 🔧 Technologie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ • Python
+
+Zed • Git • Linux (CachyOS) 🎮 Zainteresowania
+
+programowanie • AI • automatyzacja • FS25 • mody • technologia 📫 Kontakt
+
+Discord: fansupry
