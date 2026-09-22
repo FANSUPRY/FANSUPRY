@@ -8,6 +8,7 @@ C++ • Python
 
 Zed • Git • Linux (CachyOS) 🎮 Zainteresowania
 
-programowanie • AI • automatyzacja • FS25 • mody • technologia 📫 Kontakt
+programowanie • AI • automatyzacja • FS25 • mody • technologia 
+📫 Kontakt
 
 Discord: fansupry
